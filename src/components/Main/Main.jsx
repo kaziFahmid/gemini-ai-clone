@@ -9,7 +9,7 @@ const Main = () => {
     <div className='flex-1 relative'>
 <Header/>
    <div className='max-w-4xl mx-auto' >
-Kazi sdfsadf
+Kazi sdfsadfasdfdsafdsafdsafsdafsadfdsafsadf
    </div>
    <PromptSearch/>
     </div>
